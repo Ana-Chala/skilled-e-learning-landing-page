@@ -26,13 +26,13 @@ Users should be able to:
 ### Screenshot
 ![](./screenshot.jpg)
 
+![image](https://user-images.githubusercontent.com/121057105/224022218-241f7b99-c639-43c7-bc17-693ffc4fa0c9.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]https://ana-chala.github.io/skilled-e-learning-landing-page/
 
 
 
